@@ -8,5 +8,6 @@ blue
 unicorn
 purple
 pink
+indigo
 These aare the colors of the rainbow
 And the Unicorn
