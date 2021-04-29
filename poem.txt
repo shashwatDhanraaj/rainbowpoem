@@ -5,6 +5,8 @@ orange
 Yellow
 Green
 blue
+unicorn
 purple
 pink
 These aare the colors of the rainbow
+And the Unicorn
